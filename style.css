@@ -1,0 +1,86 @@
+#container{width: 800px; margin: auto;}
+div.tin{
+    height: 280px;
+    border: 5px solid black;
+    margin: 15px;
+    padding: 20px;
+    padding-top: 50px;
+    border-radius: 50px;
+    background-color: yellow;
+}
+div.tin img{
+    width: 300px;
+    height: 220px;
+    margin: 15px;
+    margin-top: 12px;
+    border-radius: 5px;
+}
+div.tin h3{
+    color: black; font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 9px;
+    margin-bottom: -15px;
+}
+div .tin p{
+    color: black; font-size: 23px;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 150%;
+}
+div.tin:hover{
+    border: 5px solid white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+body{
+    background-image: url(images/background3.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+div.info h1{
+    height: 30px;
+    border: 1px solid black;
+    margin: 15px;
+    margin-left: 35px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: white;
+
+}
+
+#menu{width: 1200px;height: 120px;margin: auto; margin-top: 30px;}
+.thanhmenu{
+    width: 75%;
+    float: right;
+    padding: 0px;
+    padding-right: 0px;
+    margin-right: 55px;
+    margin-top: 0px;
+}
+.thanhmenu li{
+    border-radius: 100px;
+    list-style: none;
+    width: 150px;
+    height: 50px;
+    float: left;  /*nhung vi tri*/
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    font-size: 25px;
+}
+.thanhmenu li:hover{
+    background-color: orange;
+}
+.thanhmenu a{
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.logo a > img{
+    width: 20%;
+    height: 80px;
+    float: left;
+    margin-left: 2px;
+}
+
