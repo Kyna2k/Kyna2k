@@ -1,6 +1,6 @@
 
-## 👨‍💻 Mobile Developer
----
+
+<p align="center">## 👨‍💻 Mobile Developer</p>
 <p align="center"><a href="https://github.com/kyna2k">
   <img src="https://komarev.com/ghpvc/?username=kyna2k&style=flat-square" />
 </a></p>
