@@ -4,7 +4,7 @@
 <p align="center"><a href="https://github.com/kyna2k">
   <img src="https://komarev.com/ghpvc/?username=kyna2k&style=flat-square" />
 </a></p>
----
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huygiabao269) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huy-phan-80852426a) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kyna_lab) 
 
@@ -18,4 +18,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kyna2k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
